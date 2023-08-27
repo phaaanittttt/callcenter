@@ -5,7 +5,7 @@
 
 }
 body{
-    background-image: url("images/0C71C839-BCC1-41D3-8969-1EB5E47D55D3.jpg");
+    background-image: url("images/fefefewfewfew.jpg");
     background-position: center;
     background-size:cover;
 }
@@ -14,7 +14,7 @@ body{
 
 .text-box{
     width: 90%;
-    color: #fafafa80;
+    color: #ffffff;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -27,7 +27,7 @@ body{
 .text-box p{
     margin: 10px 0 40px;
     font-size: 15px;
-    color: #ffffff6c;
+    color: #ffffff;
 }
 .hero-btn{
     display: inline-block;
@@ -42,7 +42,7 @@ body{
 }
 .hero-btn:hover{
     border:1px solid #ffabfb00;
-    background: hsl(51, 87%, 35%);
+    background: hsl(320, 88%, 74%);
     transition: 1s;
 
 }
